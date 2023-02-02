@@ -1,0 +1,18 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "Churn Management: A Logistic Regression Approach",
+    "description": "This project aims to develop a predictive model for customer churn in the telecommunications industry using logistic regression.",
+    "author": "Daniel Moreno",
+    "author_profile": "www.linkedin.com/in/dmoreno-ai",
+    "url": "https://github.com/moreno32/Churn-Management-A-Logistic-Regression-Approach.git",
+    "website": "https://www.danielmoreno.com",
+    "image": "",
+    "templates": {
+        "author": "",
+        "docpath": ""
+    },
+    "dependencies": []
+}
